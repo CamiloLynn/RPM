@@ -1,0 +1,27 @@
+nav.navbar{
+    background-color: #f19337;
+}
+
+button.navbar-toggler {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,37,174,1) 0%, #f19337 53.4%, #faed38 99.5% );
+    border: 0px;
+}
+
+.px-4.pt-5.my-5.text-center.border-bottom {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,37,174,1) 0%, #f19337 53.4%, #faed38 99.5% );
+ 
+}
+
+.row.p-4.pb-0.pe-lg-0.pt-lg-5.align-items-center.rounded-3.border.shadow-lg{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  #ff25ae 0%, #f19337 53.4%, #faed38 99.5% );
+
+}
+
+.progress-bar.progress-bar-striped.progress-bar-animated.fw-bold.fs-4 {
+    background-color: #00000000;
+}
+
+.progress.my-3.mx-auto{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  #ff25ae 0%, #f19337 53.4%, #faed38 99.5% );
+}
+

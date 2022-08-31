@@ -1,0 +1,8 @@
+/* Show it's not fixed to the top */
+button {
+  background-color: crimson;
+}
+
+nav.navbar.bt-dark{
+  opacity: 40%;
+}
